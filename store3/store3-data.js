@@ -22,7 +22,7 @@ var store3 = [{
             'quantity': 0
         },
         'Caramel Twists': {
-            'cost': .50,
+            'cost': 0.50,
             'quantity': 0
         },
         'Banana Bunches': {
@@ -54,7 +54,7 @@ var store3 = [{
             'quantity': 3
         },
         'Caramel Twists': {
-            'cost': .50,
+            'cost': 0.50,
             'quantity': 7
         },
         'Banana Bunches': {
@@ -86,7 +86,7 @@ var store3 = [{
             'quantity': 0
         },
         'Caramel Twists': {
-            'cost': .50,
+            'cost': 0.50,
             'quantity': 2
         },
         'Banana Bunches': {
@@ -118,7 +118,7 @@ var store3 = [{
             'quantity': 0
         },
         'Caramel Twists': {
-            'cost': .50,
+            'cost': 0.50,
             'quantity': 0
         },
         'Banana Bunches': {
@@ -150,7 +150,7 @@ var store3 = [{
             'quantity': 5
         },
         'Caramel Twists': {
-            'cost': .50,
+            'cost': 0.50,
             'quantity': 7
         },
         'Banana Bunches': {
