@@ -56,6 +56,6 @@ var JanNineKey = store3[3].date;
 var JanNineTotal = 0;
 
 for (var key in store3[3]["inventory sold"]){
-	JanNineTotal += store3[3]["inventory sold"][key].cost * store3[3]["inventory sold"][key].quantity
+	JanNineTotal += store3[3]["inventory sold"][key].cost * store3[3]["inventory sold"][key].quantity;
 }
 console.log(JanNineTotal);

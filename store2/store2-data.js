@@ -5,7 +5,7 @@ var store2 = {
         'Peppermint Poppers': 2.38,
         'Peanut Butter Buttered Peanuts': 1.79,
         'Berry Bites': 7.89,
-        'Caramel Twists': .50,
+        'Caramel Twists': 0.50,
         'Banana Bunches': 4.53
     },
     'sale dates': {
